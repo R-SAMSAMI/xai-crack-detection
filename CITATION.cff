@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+title: >-
+  Faithful but Not Plausible? A Comparative Evaluation of
+  Explainable AI Methods for Bridge Deck Crack Detection
+message: >-
+  If you use this code or the accompanying results, please cite
+  the engrXiv preprint below.
+type: software
+authors:
+  - given-names: Reihaneh
+    family-names: Samsami
+    affiliation: University of New Haven
+  - given-names: Mohamad
+    family-names: Nassar
+    affiliation: University of New Haven
+repository-code: https://github.com/R-SAMSAMI/xai-crack-detection
+license: MIT
+preferred-citation:
+  type: article
+  title: >-
+    Faithful but Not Plausible? A Comparative Evaluation of
+    Explainable AI Methods for Bridge Deck Crack Detection
+  authors:
+    - given-names: Reihaneh
+      family-names: Samsami
+      affiliation: University of New Haven
+    - given-names: Mohamad
+      family-names: Nassar
+      affiliation: University of New Haven
+  year: 2026
+  doi: 10.31224/8011
+  url: https://doi.org/10.31224/8011
+  journal: engrXiv
+  notes: >-
+    Preprint. Submitted to and under review at the Transportation
+    Research Board (TRB) Annual Meeting.

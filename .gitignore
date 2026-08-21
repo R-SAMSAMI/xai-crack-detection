@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Datasets and weights are not redistributed here
+*.pt
+*.pth
+checkpoints/
+data/
+SDNET2018/
+DeepCrack*/
+*.zip
+
+# Blinding key for the expert rating study
+KEY_do_not_open.csv
+
+.DS_Store
+Thumbs.db

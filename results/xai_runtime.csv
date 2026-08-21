@@ -1,0 +1,10 @@
+model,method,sec_per_image,n
+resnet18,gradcam++,0.0055,100
+resnet18,eigencam,0.0151,100
+resnet18,scorecam,0.5284,50
+mobilenetv3,gradcam++,0.0047,100
+mobilenetv3,eigencam,0.0337,100
+mobilenetv3,scorecam,0.281,50
+vit_tiny,gradcam++,0.0048,100
+vit_tiny,eigencam,0.0138,100
+vit_tiny,scorecam,0.2627,50

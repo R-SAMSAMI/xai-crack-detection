@@ -1,0 +1,10 @@
+model,method,pointing_hit,energy_inside
+mobilenetv3,eigencam,0.6067,0.437
+mobilenetv3,gradcam++,0.6733,0.4022
+mobilenetv3,scorecam,0.54,0.3214
+resnet18,eigencam,0.5133,0.3417
+resnet18,gradcam++,0.5333,0.2943
+resnet18,scorecam,0.5,0.2585
+vit_tiny,eigencam,0.1133,0.0784
+vit_tiny,gradcam++,0.3533,0.307
+vit_tiny,scorecam,0.62,0.487

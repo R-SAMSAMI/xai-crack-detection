@@ -1,0 +1,12 @@
+,,deletion_auc,deletion_auc,insertion_auc,insertion_auc
+,,mean,std,mean,std
+model,method,,,,
+mobilenetv3,eigencam,0.57,0.23,0.7759,0.2152
+mobilenetv3,gradcam++,0.4712,0.1484,0.8881,0.0792
+mobilenetv3,scorecam,0.425,0.1405,0.9048,0.0612
+resnet18,eigencam,0.3489,0.238,0.708,0.2519
+resnet18,gradcam++,0.2397,0.1042,0.82,0.1098
+resnet18,scorecam,0.2481,0.101,0.8455,0.1175
+vit_tiny,eigencam,0.8345,0.176,0.3952,0.1703
+vit_tiny,gradcam++,0.6709,0.251,0.6312,0.2466
+vit_tiny,scorecam,0.6873,0.2754,0.5866,0.2591
